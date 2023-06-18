@@ -49,7 +49,7 @@ class _HomePageState extends State<HomePage> {
               Text("Hello Sarah",
               style: semiBoldText16,
               ),
-              Text('Good Morning',
+              Text('Good Evening',
               style: regularText14.copyWith(color: greyColor),
               ),
             ],
